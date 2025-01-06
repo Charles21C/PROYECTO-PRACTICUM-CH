@@ -4,7 +4,7 @@
 
 @push('styles')
     <style>
-        /* Fondo de la página con marca de agua */
+     
        
         h1 {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
